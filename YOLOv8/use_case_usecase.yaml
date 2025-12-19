@@ -1,0 +1,6 @@
+path: /home/liva/use_case_imgs
+names:
+  0: no_corrosion
+  1: corrosion
+train: /home/liva/use_case_imgs_dummy_train  # required by YOLO
+val: .
